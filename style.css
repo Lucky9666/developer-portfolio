@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.purple-colour {
+    color: purple;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50;
+    padding-left: 3%;
+}
+
+.half-width img {
+    width: 150%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: -moz-linear-gradient(blue);
+    padding: 10px 40px;
+    color: rgb(162, 39, 255);
+    font-weight: 700;
+    border-radius: 5px;
+}
