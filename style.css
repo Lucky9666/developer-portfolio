@@ -12,6 +12,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 80px;
 }
 
 .half-width {
@@ -21,13 +22,18 @@ section {
 
 .half-width img {
     width: 150%;
+
 }
 
 .link-button {
     text-decoration: none;
-    background-image: -moz-linear-gradient(blue);
-    padding: 10px 40px;
-    color: rgb(162, 39, 255);
-    font-weight: 700;
+    background-image: linear-gradient(blue, purple);
+    padding: 10px 30px;
     border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/);
 }
